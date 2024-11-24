@@ -1,5 +1,5 @@
 # Abu-Dhabi-Events
-Abu Dhabi Event Digital Twin: Revolutionizing Event Management
+City Event Digital Twin: Revolutionizing Event Management
 
 ![image](https://github.com/user-attachments/assets/6af0faff-d5f2-4bac-b0e2-a34d15837982)
 
@@ -8,7 +8,7 @@ Abu Dhabi Event Digital Twin: Revolutionizing Event Management
 
 https://neon-alpaca-a0a489.netlify.app/
 
-The digital twin of Abu Dhabi events is a sophisticated virtual platform that replicates event venues, integrates real-time data, and offers advanced simulation and analytics tools. It enhances event planning, security, and resource allocation, optimizing the overall event experience and management in the city.
+The digital twin of City events is a sophisticated virtual platform that replicates event venues, integrates real-time data, and offers advanced simulation and analytics tools. It enhances event planning, security, and resource allocation, optimizing the overall event experience and management in the city.
 
 
 Creating a digital twin of Abu Dhabi events involves utilizing advanced digital technologies to replicate and simulate the city's events, venues, and associated data in a virtual environment. Digital twins are used to enhance event planning, management, and decision-making processes. Here's an overview of how you might create a digital twin for events in Abu Dhabi:
