@@ -1,6 +1,9 @@
 # Abu-Dhabi-Events
 Abu Dhabi Event Digital Twin: Revolutionizing Event Management
 
+![image](https://github.com/user-attachments/assets/6af0faff-d5f2-4bac-b0e2-a34d15837982)
+
+
 # Demo
 
 https://neon-alpaca-a0a489.netlify.app/
